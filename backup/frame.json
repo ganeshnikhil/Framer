@@ -1,0 +1,23 @@
+{
+    "Multi":{
+    "Frame_width":1088,
+    "Frame_height":1920,
+    "Padding":10,
+    "Intial_x":152,
+    "Intial_y":771,
+    "Images_per_frame":2,
+    "Images_path":"resources/image",
+    "Background":"output/framed_image.png",
+    "Output_path":"output/framed_image.jpg"},
+
+    "Single":{
+        "Frame_width": 1088,
+        "Frame_height": 1920,
+        "Padding": 10,
+        "Intial_x": 152,
+        "Intial_y": 771,
+        "Image_path":"resources/image/1.jpg",
+        "Background": "output/framed_image.png",
+        "Output_path": "output/framed_image.png"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Frame_width":1400,
+    "Frame_height":530,
+    "Background":"resources/background.png",
+    "Font_path":"resources/font.ttf",
+    "Output_path":"output/framed_image.png",
+    "Title":"welcome Framer settings",
+    "Color":"blue",
+    "Font_size":120,
+    "Split_width":20
+}

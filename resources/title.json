@@ -1,0 +1,11 @@
+{
+    "Frame_width":1400,
+    "Frame_height":530,
+    "Background":"resources/andr_background.png",
+    "Font_path":"resources/font.ttf",
+    "Output_path":"output/andr_framed_image.png",
+    "Title":"welcome to Framer settings",
+    "Color":"black",
+    "Font_size":110,
+    "Split_width":20
+}
